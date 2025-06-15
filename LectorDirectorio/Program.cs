@@ -10,7 +10,7 @@ if (!File.Exists(ruta)) // Una vez que sabemos que existe listar las carpetas y 
     DirectoryInfo directory = new DirectoryInfo(ruta);
     FileInfo[] files = directory.GetFiles();
     List<string> lineasCombinadas = new List<string>();
-
+    lineasCombinadas.Add("Nombre , Tamaño , UltimoAcceso");
     foreach (FileInfo file in files)
     {
         Console.WriteLine($"Nombre: {file.Name}, Tamaño: {file.Length} bytes");

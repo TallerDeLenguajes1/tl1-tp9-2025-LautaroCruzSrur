@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/LectorDirectorio/bin/Debug/net9.0/LectorDirectorio.dll",
+            "program": "${workspaceFolder}/LectorTagMP3/bin/Debug/net9.0/LectorTagMP3.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/LectorDirectorio",
+            "cwd": "${workspaceFolder}/LectorTagMP3",
             "console": "integratedTerminal",
             "stopAtEntry": false
         },
