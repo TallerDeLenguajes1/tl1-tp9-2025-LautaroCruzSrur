@@ -1,0 +1,6 @@
+Nombre: LectorDirectorio.csproj
+Tamaño: 252
+Ultimo acceso: 14/6/2025 21:05:00
+Nombre: Program.cs
+Tamaño: 866
+Ultimo acceso: 14/6/2025 22:02:04

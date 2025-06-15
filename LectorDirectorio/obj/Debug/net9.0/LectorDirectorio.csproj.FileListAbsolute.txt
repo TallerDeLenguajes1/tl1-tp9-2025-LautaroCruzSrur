@@ -12,3 +12,4 @@ C:\Users\ROG BY NG\Desktop\tl1-tp9-2025-LautaroCruzSrur\LectorDirectorio\obj\Deb
 C:\Users\ROG BY NG\Desktop\tl1-tp9-2025-LautaroCruzSrur\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.pdb
 C:\Users\ROG BY NG\Desktop\tl1-tp9-2025-LautaroCruzSrur\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.genruntimeconfig.cache
 C:\Users\ROG BY NG\Desktop\tl1-tp9-2025-LautaroCruzSrur\LectorDirectorio\obj\Debug\net9.0\ref\LectorDirectorio.dll
+C:\Users\ROG BY NG\Desktop\tl1-tp9-2025-LautaroCruzSrur\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.sourcelink.json
