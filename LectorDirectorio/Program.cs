@@ -9,18 +9,15 @@ if (!File.Exists(ruta)) // Una vez que sabemos que existe listar las carpetas y 
 {
     DirectoryInfo directory = new DirectoryInfo(ruta);
     FileInfo[] files = directory.GetFiles();
-    List<string> Lineas = new List<string>();
+    List<string> lineasCombinadas = new List<string>();
 
     foreach (FileInfo file in files)
     {
         Console.WriteLine($"Nombre: {file.Name}, Tamaño: {file.Length} bytes");
-        Lineas.Add($"Nombre: {file.Name}");
-        Lineas.Add($"Tamaño: {file.Length}");
-        Lineas.Add($"Ultimo acceso: {file.LastAccessTime}");
-
+        lineasCombinadas.Add($"{file.Name},{file.Length},{file.LastAccessTime:dd-MM-yyyy HH:mm:ss}");
     }
-    string rutaParaGuardar = Path.Combine(ruta, "listado.csv");
-    File.WriteAllLines(rutaParaGuardar, Lineas);
+    string rutaParaGuardar = Path.Combine(ruta, "reporte_archivos.csv");
+    File.WriteAllLines(rutaParaGuardar, lineasCombinadas);
         
 }
 
