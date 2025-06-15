@@ -1,0 +1,14 @@
+C:\Users\ROG BY NG\Desktop\tl1-tp9-2025-LautaroCruzSrur\LectorDirectorio\bin\Debug\net9.0\LectorDirectorio.exe
+C:\Users\ROG BY NG\Desktop\tl1-tp9-2025-LautaroCruzSrur\LectorDirectorio\bin\Debug\net9.0\LectorDirectorio.deps.json
+C:\Users\ROG BY NG\Desktop\tl1-tp9-2025-LautaroCruzSrur\LectorDirectorio\bin\Debug\net9.0\LectorDirectorio.runtimeconfig.json
+C:\Users\ROG BY NG\Desktop\tl1-tp9-2025-LautaroCruzSrur\LectorDirectorio\bin\Debug\net9.0\LectorDirectorio.dll
+C:\Users\ROG BY NG\Desktop\tl1-tp9-2025-LautaroCruzSrur\LectorDirectorio\bin\Debug\net9.0\LectorDirectorio.pdb
+C:\Users\ROG BY NG\Desktop\tl1-tp9-2025-LautaroCruzSrur\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG BY NG\Desktop\tl1-tp9-2025-LautaroCruzSrur\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.AssemblyInfoInputs.cache
+C:\Users\ROG BY NG\Desktop\tl1-tp9-2025-LautaroCruzSrur\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.AssemblyInfo.cs
+C:\Users\ROG BY NG\Desktop\tl1-tp9-2025-LautaroCruzSrur\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.csproj.CoreCompileInputs.cache
+C:\Users\ROG BY NG\Desktop\tl1-tp9-2025-LautaroCruzSrur\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.dll
+C:\Users\ROG BY NG\Desktop\tl1-tp9-2025-LautaroCruzSrur\LectorDirectorio\obj\Debug\net9.0\refint\LectorDirectorio.dll
+C:\Users\ROG BY NG\Desktop\tl1-tp9-2025-LautaroCruzSrur\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.pdb
+C:\Users\ROG BY NG\Desktop\tl1-tp9-2025-LautaroCruzSrur\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.genruntimeconfig.cache
+C:\Users\ROG BY NG\Desktop\tl1-tp9-2025-LautaroCruzSrur\LectorDirectorio\obj\Debug\net9.0\ref\LectorDirectorio.dll
